@@ -1,0 +1,2 @@
+# borrador
+zapatos_borrador
